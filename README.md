@@ -6,7 +6,7 @@
 ## Conteúdos
 
 * Curso #QurentenaDEV da *Alura*
- * Apostilas da *Caelum* sobre Front-End
- * Exemplos e Template Web Design 
+  * Apostilas da *Caelum* sobre Front-End
+  * Exemplo e Template Web Design 
 
 ---

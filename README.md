@@ -3,7 +3,7 @@
  Códigos de alguns cursos de programação
 
 ----
-## Conteúdos
+## Conteúdo
 
 * Curso #QurentenaDEV da *Alura*
   * Apostilas da *Caelum* sobre Front-End `.pdf` e `.epub`

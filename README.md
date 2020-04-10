@@ -1,6 +1,6 @@
 # Cursos Programação
 
- Códigos de alguns cursos de programação
+ Códigos de alguns cursos de programação.
 
 ----
 ## Conteúdo

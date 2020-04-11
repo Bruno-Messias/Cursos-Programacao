@@ -6,6 +6,7 @@ Material sobre o curso CS50 - Oferecido por *HarvadX*
 
 * [Week 0](https://cs50.harvard.edu/x/2020/notes/0/)
 * [Week 1](https://cs50.harvard.edu/x/2020/notes/1/)
+* [Week 2](https://cs50.harvard.edu/x/2020/notes/2/)
 
 ---
 

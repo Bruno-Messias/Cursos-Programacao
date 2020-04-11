@@ -1,4 +1,4 @@
-# CS50-Introduction-to-Computer-Science
+# CS50 Introduction to Computer Science
 
 Material sobre o curso CS50 - Oferecido por *HarvadX*
 

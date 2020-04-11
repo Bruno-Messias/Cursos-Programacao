@@ -12,7 +12,7 @@ Material sobre o curso CS50 - Oferecido por *HarvadX*
 ## Atualização:
 
 - [x] Problem Set 0
-- [ ] Problem Set 1
+- [x] Problem Set 1
 - [ ] Problem Set 2
 - [ ] Problem Set 3
 - [ ] Problem Set 4

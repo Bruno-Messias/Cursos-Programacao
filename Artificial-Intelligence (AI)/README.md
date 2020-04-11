@@ -1,18 +1,12 @@
-# Cursos Programação
+# Artificial Intelligence(AI)
 
- Códigos de alguns cursos de programação.
+ Códigos e Material do curso oferecido pela *Microsoft*
 
 ----
 ## Conteúdo
 
-* Curso #QurentenaDEV da *Alura*
-  	* Apostilas da *Caelum* sobre Front-End `.pdf` e `.epub`
-  	* Exemplo e Template Web Design 
+* Introduction to Python for Data Science
 
-* Curso CS50 de *HavardX*
-	* Lecture Notes
-	* Slides and Source Code
-	* Problems Sets solved and Final Project
 	
 
 ---

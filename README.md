@@ -14,5 +14,9 @@
 	* Slides and Source Code
 	* Problems Sets solved and Final Project
 	
+* Artificial Intelligence (AI) da *Microsoft*
+	* Deep Learning Explained
+
+	
 
 ---

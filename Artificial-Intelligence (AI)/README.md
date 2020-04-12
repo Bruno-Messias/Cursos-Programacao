@@ -5,7 +5,8 @@
 ----
 ## Conteúdo
 
-* Introduction to Python for Data Science
+* Deep Learning Explained
+
 
 	
 

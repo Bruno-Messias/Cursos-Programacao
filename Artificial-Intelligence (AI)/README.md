@@ -6,6 +6,7 @@
 ## Conteúdo
 
 * Deep Learning Explained
+	* Course Handouts
 
 
 	

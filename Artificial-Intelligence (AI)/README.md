@@ -7,6 +7,7 @@
 
 * Deep Learning Explained
 	* Course Handouts
+	* Códigos usados nas aulas *corrigidos*
 
 
 	

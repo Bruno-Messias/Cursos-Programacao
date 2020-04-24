@@ -9,6 +9,9 @@
 	* Course Handouts
 	* Códigos usados nas aulas *corrigidos*
 
+* Introduction to Artificial Intelligence (AI)
+
+
 
 	
 

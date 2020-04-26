@@ -15,8 +15,12 @@
 	* Problems Sets solved and Final Project
 	
 * Artificial Intelligence (AI) da *Microsoft*
-	* Deep Learning Explained
 
+	* Deep Learning Explained
+	* Essential Math for Machine Learning(Python Edition)
+	* Introduction to Artificial Intelligence (AI)
+	* Natural Language Processing (NLP)
+	* Principles of Machine Learning
 	
 
 ---

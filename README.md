@@ -8,6 +8,10 @@
 * Curso #QurentenaDEV da *Alura*
   	* Apostilas da *Caelum* sobre Front-End `.pdf` e `.epub`
   	* Exemplo e Template Web Design 
+	
+* Curso #QuarentenaDados da *Alura*
+	* Códigos utilizados nas aulas
+	* Resolução de desafios
 
 * Curso CS50 de *HavardX*
 	* Lecture Notes

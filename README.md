@@ -12,6 +12,9 @@
 * Curso #QuarentenaDados da *Alura*
 	* Códigos utilizados nas aulas
 	* Resolução de desafios
+* Curso #QuaentenaDados da *Alura*
+	* Códigos utilizados nas aulas
+	* Resolução dos desafios
 
 * Curso CS50 de *HavardX*
 	* Lecture Notes
